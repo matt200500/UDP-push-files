@@ -3,6 +3,8 @@ Connects to a server and pushes files to server directory
 
 ## How to run Server:
 
+Server can be ran locally or remotely, if it is local, you can put it into any folder or directory
+
 Use the following command to start the server:
 
     java -jar ftpserver.jar
